@@ -1,0 +1,1 @@
+import{i,j as n,k as o}from"./chunk-OKULXQAF-9d6395fb.js";import"./index-6e351ba0.js";function c(){return function(r){return r.rpcUrls.public.http[0]?{chain:r,rpcUrls:r.rpcUrls.public}:null}}const u={priority:0,install(){const r=o,{publicClient:t}=i([r],[c()],{pollingInterval:500});n({autoConnect:!0,publicClient:t})}};export{u as wagmi};

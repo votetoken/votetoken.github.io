@@ -1,0 +1,1 @@
+import{O as o}from"./index-6e351ba0.js";var e=null;typeof WebSocket<"u"?e=WebSocket:typeof MozWebSocket<"u"?e=MozWebSocket:typeof o<"u"?e=o.WebSocket||o.MozWebSocket:typeof window<"u"?e=window.WebSocket||window.MozWebSocket:typeof self<"u"&&(e=self.WebSocket||self.MozWebSocket);const t=e;export{t as default};

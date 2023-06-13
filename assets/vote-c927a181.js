@@ -1,1 +1,0 @@
-import{p as o}from"./index-102a8216.js";import{f as r,e as n}from"./vote-237bca36.js";import"./index-77679505.js";import"./chunk-OKULXQAF-993b1b0a.js";const i={priority:1,async install(){const{update:t}=n();await t().then(()=>o(t,1e3));const{update:e}=r();await e().then(()=>o(e,1e3))}};export{i as voteModule};

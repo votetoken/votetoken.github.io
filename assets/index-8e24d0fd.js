@@ -1,4 +1,4 @@
-import{aK as n,ag as e,aO as s,aP as f,aR as d,aL as c,aQ as l,aN as p,aM as m}from"./web3-onboard-c616964c.js";import"./chunk-OKULXQAF-993b1b0a.js";import"./index-77679505.js";const r=`
+import{aK as n,ag as e,aO as s,aP as f,aR as d,aL as c,aQ as l,aN as p,aM as m}from"./web3-onboard-568c2709.js";import"./chunk-OKULXQAF-663bd9bc.js";import"./index-aaf3833f.js";const r=`
 @font-face {
   font-family: 'Inter';
   font-style:  normal;
